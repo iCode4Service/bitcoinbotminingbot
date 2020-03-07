@@ -1,0 +1,22 @@
+{
+    "name": "Bitcoinbot Miningbot",
+    "type": "Bot development",
+    "description": "This bot helps you mine bitcoin directly into your wallet",
+    "keywords": ["telegram", "bot", "bitcoin", "mining"],
+    "license": "MIT",
+    "homepage": "https://github.com/iCode4Service/bitcoinbotminingbot",
+    "support": {
+        "issues": "https://github.com/php-telegram-bot/example-bot/issues",
+        "source": "https://github.com/iCode4Service/bitcoinbotminingbot"
+    },
+    "authors": [
+        {
+            "name": "Marley Goff",
+            "homepage": "https://github.com/iCode4Service",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "longman/telegram-bot": "*"
+    }
+}
